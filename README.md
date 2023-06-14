@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre,</h1>
-- 🔭 I’m currently working on **Tensorflow with Python**
+
+- 🔭 I’m currently working on **Python,SQL and Data Analysis**
 
 - 🌱 I’m currently learning **Python,SQL and Data Analysis**
 
